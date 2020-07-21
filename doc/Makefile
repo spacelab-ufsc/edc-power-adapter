@@ -1,5 +1,5 @@
 SRC=main
-TARGET=doc-template
+TARGET=edc-power-adapter
 
 ifndef BUILD_DIR
 	BUILD_DIR=build
