@@ -1,0 +1,13 @@
+# Altium version control and status files
+*History
+*__Previews
+Project Outputs*
+*.log
+*.Dat
+*.txt
+
+# Altium output files (expect ziped)
+output_files/Gerber Files/*
+output_files/NC Drill Files/*
+output_files/ODB++ Files/*
+!*.zip
