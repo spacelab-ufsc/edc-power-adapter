@@ -44,7 +44,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -61,7 +61,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -140,16 +140,16 @@ GenerateClassCluster=0
 DocumentUniqueId=QMLVIINM
 
 [Parameter1]
+Name=Drawer
+Value=Yan Castro de Azeredo
+
+[Parameter2]
 Name=Model
 Value=Engineering
 
-[Parameter2]
+[Parameter3]
 Name=Revision
 Value=1.0
-
-[Parameter3]
-Name=Drawer
-Value=Yan Castro de Azeredo
 
 [Configuration1]
 Name=Sources
